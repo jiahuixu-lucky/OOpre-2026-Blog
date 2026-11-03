@@ -10,7 +10,7 @@
 
 最终版本的 UML 类图如下：
 
-【此处插入 HW7 UML 类图】
+![迭代作业结构图](https://raw.githubusercontent.com/jiahuixu-lucky/OOpre-2026-Blog/main/迭代作业结构图.png)
 
 整体上，代码主要分为以下几个部分：
 
